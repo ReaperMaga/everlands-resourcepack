@@ -1,0 +1,111 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/lime_dye"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/decor/desk_computer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/decor/chair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/decor/camera/stand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/decor/camera/top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/decor/fan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/decor/server"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/decor/locker"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "custom/decor/laptop"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "custom/decor/projector"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "custom/decor/control"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "custom/decor/whiteboard_frame"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "custom/decor/whiteboard_frame2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "custom/decor/tanker"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "custom/decor/lights/lights_on"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "custom/decor/lights/lights_off"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "custom/decor/lights/lights_yellow"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "custom/decor/grave"
+		}
+	]
+}

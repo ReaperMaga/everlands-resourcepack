@@ -1,0 +1,433 @@
+{
+ "entity.zombie.say": {
+    "sounds": [
+      "mob/zombie/say1",
+      "mob/zombie/say2",
+      "mob/zombie/say3",
+      "mob/zombie/say4",
+      "mob/zombie/say5",
+      "mob/zombie/say6",
+      "mob/zombie/say7",
+      "mob/zombie/say8",
+      "mob/zombie/say9",
+      "mob/zombie/say10",
+      "mob/zombie/say11",
+      "mob/zombie/say12",
+      "mob/zombie/say13",
+      "mob/zombie/say14",
+      "mob/zombie/say15",
+      "mob/zombie/say16",
+      "mob/zombie/say17",
+      "mob/zombie/say18",
+      "mob/zombie/say19"
+    ]
+  },
+  "radioactive": {
+    "sounds": ["misc/radioactive"]
+  },
+  "shoot.ar": {
+    "sounds": ["shoot/ar"]
+  },
+  "shoot.grenadelauncher": {
+    "sounds": ["shoot/grenadelauncher"]
+  },
+  "shoot.lmg": {
+    "sounds": ["shoot/lmg"]
+  },
+  "shoot.sentry": {
+    "sounds": ["shoot/sentry"]
+  },
+  "shoot.smg": {
+    "sounds": ["shoot/smg"]
+  },
+  "shoot.deagle": {
+    "sounds": ["shoot/deagle"]
+  },
+  "shoot.l96": {
+    "sounds": ["shoot/l96"]
+  },
+  "shoot.ump45": {
+    "sounds": ["shoot/ump45/ump45_02", "shoot/ump45/ump45_04"]
+  },
+  "shoot.pdw": {
+    "sounds": ["shoot/pdw/pdw_01", "shoot/pdw/pdw_02", "shoot/pdw/pdw_03"]
+  },
+  "shoot.scar": {
+    "sounds": ["shoot/scar/scar_01", "shoot/scar/scar_02"]
+  },
+  "shoot.glock": {
+    "sounds": ["shoot/glock/glock_01", "shoot/glock/glock_02"]
+  },
+  "shoot.mac": {
+    "sounds": ["shoot/mac/mac10_01", "shoot/mac/mac10_02"]
+  },
+  "shoot.ak": {
+    "sounds": ["shoot/ak47"]
+  },
+  "shoot.awp": {
+    "sounds": ["shoot/awp"]
+  },
+  "shoot.minigun": {
+    "sounds": ["shoot/minigun"]
+  },
+  "shoot.sniper": {
+    "sounds": ["shoot/sniper"]
+  },
+  "railgun.shoot": {
+    "sounds": ["railgun/shoot"]
+  },
+  "railgun.charge": {
+    "sounds": ["railgun/charge"]
+  },
+  "railgunrifle.shoot": {
+    "sounds": ["shoot/railgun"]
+  },
+  "shoot.pistol": {
+    "sounds": ["shoot/pistol"]
+  },
+  "shoot.shotgun": {
+    "sounds": ["shoot/shotgun"]
+  },
+  "grenade.explosion": {
+    "sounds": ["throwable/explosion"]
+  },
+  "grenade.gas": {
+    "sounds": ["throwable/gas"]
+  },
+  "grenade.flashbang": {
+    "sounds": ["throwable/flashbang"]
+  },
+  "misc.lowammo": {
+    "sounds": ["misc/lowammo"]
+  },
+  "misc.throwaxe": {
+    "sounds": ["misc/throw_axe"]
+  },
+  "misc.fleshknifeimpact": {
+    "sounds": ["misc/flesh_axe_impact"]
+  },
+  "misc.backpack": {
+    "sounds": ["misc/backpack"]
+  },
+  "research": {
+    "sounds": ["research"]
+  },
+  "airstrike.request": {
+    "sounds": ["throwable/airstrike/airstrike_request"]
+  },
+  "airstrike.impact": {
+    "sounds": [
+      "throwable/airstrike/airstrike_impact1",
+      "throwable/airstrike/airstrike_impact2",
+      "throwable/airstrike/airstrike_impact3",
+      "throwable/airstrike/airstrike_impact4"
+    ]
+  },
+  "game.death": {
+    "sounds": ["misc/death"]
+  },
+  "door.warning": {
+    "sounds": ["door/warning"]
+  },
+  "door.open": {
+    "sounds": ["door/open"]
+  },
+  "keypad.fail": {
+    "sounds": ["keypad/fail"]
+  },
+  "keypad.open": {
+    "sounds": ["keypad/open"]
+  },
+  "keypad.success": {
+    "sounds": ["keypad/success"]
+  },
+  "keypad.press": {
+    "sounds": [
+      "keypad/press1",
+      "keypad/press2",
+      "keypad/press3",
+      "keypad/press4"
+    ]
+  },
+  "reload.ar.clipin": {
+    "sounds": ["reload/ar_clipin"]
+  },
+  "reload.ar.clipout": {
+    "sounds": ["reload/ar_clipout"]
+  },
+  "reload.pistol.clipin": {
+    "sounds": ["reload/pistol_clipin"]
+  },
+  "reload.pistol.clipout": {
+    "sounds": ["reload/pistol_clipout"]
+  },
+  "reload.sniper.clipin": {
+    "sounds": ["reload/sniper_clipin"]
+  },
+  "reload.sniper.clipout": {
+    "sounds": ["reload/sniper_clipout"]
+  },
+  "reload.shotgun.clipin": {
+    "sounds": ["reload/shotgun_clipin"]
+  },
+  "reload.lmg.clipin": {
+    "sounds": ["reload/lmg_clipin"]
+  },
+  "reload.lmg.clipout": {
+    "sounds": ["reload/lmg_clipout"]
+  },
+  "reload.smg.clipin": {
+    "sounds": ["reload/smg_clipin"]
+  },
+  "reload.smg.clipout": {
+    "sounds": ["reload/smg_clipout"]
+  },
+  "medical.bandage": {
+    "sounds": ["medical/bandage"]
+  },
+  "impact.hit": {
+    "sounds": ["impact/hit"]
+  },
+  "impact.headshot": {
+    "sounds": ["impact/headshot"]
+  },
+  "impact.cement": {
+    "sounds": ["impact/cement"]
+  },
+  "impact.glass": {
+    "sounds": ["impact/glass"]
+  },
+  "impact.tree": {
+    "sounds": ["impact/tree"]
+  },
+  "impact.dirt": {
+    "sounds": ["impact/dirt"]
+  },
+  "impact.snow": {
+    "sounds": ["impact/snow"]
+  },
+  "music.ez4ence": {
+    "sounds": ["music/ez4ence"]
+  },
+  "aim.sniper": {
+    "sounds": ["aim/sniper"]
+  },
+  "aim.in": {
+    "sounds": ["aim/aim_in"]
+  },
+  "aim.out": {
+    "sounds": ["aim/aim_out"]
+  },
+  "uav": {
+    "sounds": ["misc/uav"]
+  },
+  "equip.guns.ar": {
+    "sounds": ["equip/guns/ar"]
+  },
+  "equip.guns.smg": {
+    "sounds": ["equip/guns/smg"]
+  },
+  "equip.guns.lmg": {
+    "sounds": ["equip/guns/lmg"]
+  },
+  "equip.guns.pistol": {
+    "sounds": ["equip/guns/pistol"]
+  },
+  "equip.guns.sniper": {
+    "sounds": ["equip/guns/sniper"]
+  },
+  "equip.guns.shotgun": {
+    "sounds": ["equip/guns/shotgun"]
+  },
+  "equip.melee": {
+    "sounds": ["equip/melee"]
+  },
+  "ambience.wind": {
+    "sounds": ["ambience/wind"]
+  },
+  "unlock": {
+    "sounds": ["misc/unlock"]
+  },
+  "grappling": {
+    "sounds": ["misc/grappling"]
+  },
+  "grappling.pull": {
+    "sounds": ["misc/grappling_pull"]
+  },
+  "recycler": {
+    "sounds": ["recycler/recycler"]
+  },
+  "recycler.on": {
+    "sounds": ["recycler/recycler_on"]
+  },
+  "recycler.off": {
+    "sounds": ["recycler/recycler_off"]
+  },
+
+  "littleroom.kindletron3.death": {
+    "sounds": ["mobs/kindletron2/death"]
+  },
+  "littleroom.kindletron3.glide": {
+    "sounds": ["mobs/kindletron2/glide"]
+  },
+  "littleroom.kindletron3.impact01": {
+    "sounds": ["mobs/kindletron2/impact01"]
+  },
+  "littleroom.kindletron3.impact02": {
+    "sounds": ["mobs/kindletron2/impact02"]
+  },
+  "littleroom.kindletron3.impact03": {
+    "sounds": ["mobs/kindletron2/impact03"]
+  },
+  "littleroom.kindletron3.impact04": {
+    "sounds": ["mobs/kindletron2/impact04"]
+  },
+  "littleroom.kindletron3.kindletron_idle_40ticks": {
+    "sounds": ["mobs/kindletron2/kindletron_idle_40ticks"]
+  },
+  "littleroom.kindletron3.saw": {
+    "sounds": ["mobs/kindletron2/saw"]
+  },
+  "littleroom.kindletron3.swing": {
+    "sounds": ["mobs/kindletron2/swing"]
+  },
+  "littleroom.kindletron3.sword_swing01": {
+    "sounds": ["mobs/kindletron2/sword_swing01"]
+  },
+  "littleroom.kindletron3.sword_swing02": {
+    "sounds": ["mobs/kindletron2/sword_swing02"]
+  },
+  "littleroom.kindletron3.sword_swing03": {
+    "sounds": ["mobs/kindletron2/sword_swing03"]
+  },
+  "littleroom.kindletron3.sword_swing04": {
+    "sounds": ["mobs/kindletron2/sword_swing04"]
+  },
+  "littleroom.kindletron3.land": {
+    "sounds": ["mobs/kindletron2/land"]
+  },
+  "littleroom.zahar.abomination_grab": {
+    "sounds": ["mobs/zahar/abomination_grab"]
+  },
+  "littleroom.zahar.abomination_impact1": {
+    "sounds": ["mobs/zahar/abomination_impact1"]
+  },
+  "littleroom.zahar.abomination_impact2": {
+    "sounds": ["mobs/zahar/abomination_impact2"]
+  },
+  "littleroom.zahar.abomination_scream1": {
+    "sounds": ["mobs/zahar/abomination_scream1"]
+  },
+  "littleroom.zahar.abomination_scream2": {
+    "sounds": ["mobs/zahar/abomination_scream2"]
+  },
+  "littleroom.zahar.abomination_scream3": {
+    "sounds": ["mobs/zahar/abomination_scream3"]
+  },
+  "littleroom.zahar.abomination_spawn": {
+    "sounds": ["mobs/zahar/abomination_spawn"]
+  },
+  "littleroom.zahar.bottle_foley1": {
+    "sounds": ["mobs/zahar/bottle_foley1"]
+  },
+  "littleroom.zahar.bottle_foley2": {
+    "sounds": ["mobs/zahar/bottle_foley2"]
+  },
+  "littleroom.zahar.bottle_foley3": {
+    "sounds": ["mobs/zahar/bottle_foley3"]
+  },
+  "littleroom.zahar.bottle_slurp": {
+    "sounds": ["mobs/zahar/bottle_slurp"]
+  },
+  "littleroom.zahar.cloth_foley1": {
+    "sounds": ["mobs/zahar/cloth_foley1"]
+  },
+  "littleroom.zahar.cloth_foley2": {
+    "sounds": ["mobs/zahar/cloth_foley2"]
+  },
+  "littleroom.zahar.cloth_foley3": {
+    "sounds": ["mobs/zahar/cloth_foley3"]
+  },
+  "littleroom.zahar.cloth_foley4": {
+    "sounds": ["mobs/zahar/cloth_foley4"]
+  },
+  "littleroom.zahar.cloth_foley5": {
+    "sounds": ["mobs/zahar/cloth_foley5"]
+  },
+  "littleroom.zahar.cloth_foley6": {
+    "sounds": ["mobs/zahar/cloth_foley6"]
+  },
+  "littleroom.zahar.impact1": {
+    "sounds": ["mobs/zahar/impact1"]
+  },
+  "littleroom.zahar.impact2": {
+    "sounds": ["mobs/zahar/impact2"]
+  },
+  "littleroom.zahar.impact3": {
+    "sounds": ["mobs/zahar/impact3"]
+  },
+  "littleroom.zahar.impact4": {
+    "sounds": ["mobs/zahar/impact4"]
+  },
+  "littleroom.zahar.swing1": {
+    "sounds": ["mobs/zahar/swing1"]
+  },
+  "littleroom.zahar.swing2": {
+    "sounds": ["mobs/zahar/swing2"]
+  },
+  "littleroom.zahar.swing3": {
+    "sounds": ["mobs/zahar/swing3"]
+  },
+  "littleroom.zahar.zahar_die": {
+    "sounds": ["mobs/zahar/zahar_die"]
+  },
+  "littleroom.zahar.zahar_stun": {
+    "sounds": ["mobs/zahar/zahar_stun"]
+  },
+  "littleroom.zahar.summon_circle": {
+    "sounds": ["mobs/zahar/summon_circle"]
+  },
+  "samus.scorpion_attack": {
+    "category": "master",
+    "sounds": [
+      "mobs/scorpion/scorpion_attack1",
+      "mobs/scorpion/scorpion_attack2"
+    ]
+  },
+  "samus.emerge_from_ground": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/emerge_from_ground"]
+  },
+  "samus.jump_into_ground": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/jump_into_ground"]
+  },
+  "samus.scorpion_eat": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/scorpion_eat1", "mobs/scorpion/scorpion_eat2"]
+  },
+  "samus.scorpion_idle": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/scorpion_idle1", "mobs/scorpion/scorpion_idle2"]
+  },
+  "samus.scorpion_poison": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/scorpion_poison"]
+  },
+  "samus.scorpion_punch": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/scorpion_punch"]
+  },
+  "samus.scorpion_sting": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/scorpion_sting"]
+  },
+  "samus.scorpion_throw": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/scorpion_throw"]
+  },
+  "samus.spit_venom": {
+    "category": "master",
+    "sounds": ["mobs/scorpion/spit_venom"]
+  }
+}
