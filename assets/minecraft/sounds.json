@@ -263,7 +263,12 @@
   "recycler.off": {
     "sounds": ["recycler/recycler_off"]
   },
-
+  "insert.attachment": {
+    "sounds": ["misc/insert_attachment"]
+  },
+  "remove.attachment": {
+    "sounds": ["misc/takeout_attachment"]
+  },
   "littleroom.kindletron3.death": {
     "sounds": ["mobs/kindletron2/death"]
   },
