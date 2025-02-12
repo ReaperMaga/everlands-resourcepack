@@ -2,7 +2,7 @@
     "credit": "Prismarin",
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/wooden_hoe"
+        "layer0": "item/diamond_hoe"
     },
     "overrides": [
         {
