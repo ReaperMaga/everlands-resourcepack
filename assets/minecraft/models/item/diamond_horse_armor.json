@@ -1,0 +1,477 @@
+{
+    "credit": "Everlands",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_horse_armor"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/guns/ar/ak12/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/guns/ar/ak12/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/guns/ar/ak12/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "custom/guns/ar/m4a1/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "custom/guns/ar/m4a1/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "custom/guns/ar/m4a1/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "custom/guns/ar/qbz95/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201
+            },
+            "model": "custom/guns/ar/qbz95/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202
+            },
+            "model": "custom/guns/ar/qbz95/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300
+            },
+            "model": "custom/guns/ar/m16/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301
+            },
+            "model": "custom/guns/ar/m16/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 302
+            },
+            "model": "custom/guns/ar/m16/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400
+            },
+            "model": "custom/guns/ar/asval/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 401
+            },
+            "model": "custom/guns/ar/asval/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 402
+            },
+            "model": "custom/guns/ar/asval/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500
+            },
+            "model": "custom/guns/ar/scar/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 501
+            },
+            "model": "custom/guns/ar/scar/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 502
+            },
+            "model": "custom/guns/ar/scar/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 600
+            },
+            "model": "custom/guns/lmg/l86/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 601
+            },
+            "model": "custom/guns/lmg/l86/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 602
+            },
+            "model": "custom/guns/lmg/l86/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 700
+            },
+            "model": "custom/guns/lmg/pkp/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 701
+            },
+            "model": "custom/guns/lmg/pkp/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 702
+            },
+            "model": "custom/guns/lmg/pkp/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 800
+            },
+            "model": "custom/guns/lmg/minigun/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 801
+            },
+            "model": "custom/guns/lmg/minigun/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 900
+            },
+            "model": "custom/guns/pistol/tec9/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 901
+            },
+            "model": "custom/guns/pistol/tec9/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 902
+            },
+            "model": "custom/guns/pistol/tec9/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "custom/guns/pistol/skorpion/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "custom/guns/pistol/skorpion/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "custom/guns/pistol/skorpion/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1100
+            },
+            "model": "custom/guns/pistol/desert_eagle/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1101
+            },
+            "model": "custom/guns/pistol/desert_eagle/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1102
+            },
+            "model": "custom/guns/pistol/desert_eagle/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1200
+            },
+            "model": "custom/guns/pistol/glock17/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1201
+            },
+            "model": "custom/guns/pistol/glock17/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1202
+            },
+            "model": "custom/guns/pistol/glock17/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1300
+            },
+            "model": "custom/guns/pistol/usp/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1301
+            },
+            "model": "custom/guns/pistol/usp/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1302
+            },
+            "model": "custom/guns/pistol/usp/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1400
+            },
+            "model": "custom/guns/shotgun/mb500/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1401
+            },
+            "model": "custom/guns/shotgun/mb500/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1402
+            },
+            "model": "custom/guns/shotgun/mb500/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1500
+            },
+            "model": "custom/guns/shotgun/aa12/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1501
+            },
+            "model": "custom/guns/shotgun/aa12/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1502
+            },
+            "model": "custom/guns/shotgun/aa12/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1600
+            },
+            "model": "custom/guns/shotgun/double_barrel/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1601
+            },
+            "model": "custom/guns/shotgun/double_barrel/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1602
+            },
+            "model": "custom/guns/shotgun/double_barrel/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1700
+            },
+            "model": "custom/guns/smg/vityaz/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1701
+            },
+            "model": "custom/guns/smg/vityaz/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1702
+            },
+            "model": "custom/guns/smg/vityaz/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1800
+            },
+            "model": "custom/guns/smg/vector/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1801
+            },
+            "model": "custom/guns/smg/vector/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1802
+            },
+            "model": "custom/guns/smg/vector/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1900
+            },
+            "model": "custom/guns/smg/ump/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1901
+            },
+            "model": "custom/guns/smg/ump/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1902
+            },
+            "model": "custom/guns/smg/ump/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2000
+            },
+            "model": "custom/guns/smg/p90/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2001
+            },
+            "model": "custom/guns/smg/p90/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2002
+            },
+            "model": "custom/guns/smg/p90/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2100
+            },
+            "model": "custom/guns/smg/pdw/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2101
+            },
+            "model": "custom/guns/smg/pdw/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2102
+            },
+            "model": "custom/guns/smg/pdw/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2200
+            },
+            "model": "custom/guns/smg/uzi/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2201
+            },
+            "model": "custom/guns/smg/uzi/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2202
+            },
+            "model": "custom/guns/smg/uzi/default_aim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2300
+            },
+            "model": "custom/guns/sniper/awp/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2301
+            },
+            "model": "custom/guns/sniper/awp/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2400
+            },
+            "model": "custom/guns/sniper/ballista/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2401
+            },
+            "model": "custom/guns/sniper/ballista/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2500
+            },
+            "model": "custom/guns/sniper/l96/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2501
+            },
+            "model": "custom/guns/sniper/l96/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2600
+            },
+            "model": "custom/guns/sniper/m107/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2601
+            },
+            "model": "custom/guns/sniper/m107/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2700
+            },
+            "model": "custom/guns/sniper/railgun/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2701
+            },
+            "model": "custom/guns/sniper/railgun/default_reload"
+        }
+    ]
+}
