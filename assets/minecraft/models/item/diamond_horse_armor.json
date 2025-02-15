@@ -163,6 +163,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 802
+            },
+            "model": "custom/guns/lmg/minigun/default"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 900
             },
             "model": "custom/guns/pistol/tec9/default"
