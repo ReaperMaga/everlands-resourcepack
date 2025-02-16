@@ -434,5 +434,17 @@
   "samus.spit_venom": {
     "category": "master",
     "sounds": ["mobs/scorpion/spit_venom"]
+  },
+  "misc.throw": {
+    "category": "master",
+    "sounds": ["misc/throw"]
+  },
+  "grenade.land": {
+    "category": "master",
+    "sounds": ["misc/grenade_land"]
+  },
+  "grenade.land.dirt": {
+    "category": "master",
+    "sounds": ["misc/grenade_land_on_dirt"]
   }
 }
