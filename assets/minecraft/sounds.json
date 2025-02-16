@@ -446,5 +446,9 @@
   "grenade.land.dirt": {
     "category": "master",
     "sounds": ["misc/grenade_land_on_dirt"]
+  },
+  "melee.hit": {
+    "category": "master",
+    "sounds": ["melee/hit", "melee/hit2", "melee/hit3", "melee/hit4"]
   }
 }
