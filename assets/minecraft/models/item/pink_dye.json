@@ -1,0 +1,45 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pink_dye"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/cards/green_card"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/cards/blue_card"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/cards/red_card"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/cards/green_swipe"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/cards/blue_swipe"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/cards/red_swipe"
+		}
+	]
+}

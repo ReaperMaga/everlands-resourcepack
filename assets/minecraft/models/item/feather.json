@@ -15,19 +15,13 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "custom/med/syringe_2"
+			"model": "custom/med/bandage"
 		},
         {
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "custom/med/syringe_3"
-		},
-        {
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "custom/med/syringe_4"
+			"model": "custom/med/medkit"
 		}
 	]
 }
