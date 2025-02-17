@@ -1,0 +1,27 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_horse_armor"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/backpack/small_backpack"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/backpack/medium_backpack"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/backpack/large_backpack"
+		}
+	]
+}
