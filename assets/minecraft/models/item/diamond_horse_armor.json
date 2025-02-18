@@ -478,6 +478,30 @@
                 "custom_model_data": 2701
             },
             "model": "custom/guns/sniper/railgun/default_reload"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2800
+            },
+            "model": "custom/rocket_launcher/rpg_loaded"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2801
+            },
+            "model": "custom/rocket_launcher/rpg_aiming"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2802
+            },
+            "model": "custom/rocket_launcher/rpg_reloading"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2803
+            },
+            "model": "custom/rocket_launcher/rpg_unloaded"
         }
     ]
 }

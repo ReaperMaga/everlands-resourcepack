@@ -40,6 +40,12 @@
 				"custom_model_data": 6
 			},
 			"model": "custom/ammo/sniper"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/rocket_launcher/rocket"
 		}
 	]
 }
