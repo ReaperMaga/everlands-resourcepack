@@ -420,8 +420,9 @@
 			"translation": [0, 1.5, -4]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -84, -67],
-			"translation": [2, 4.5, 0]
+			"rotation": [36, -90, 0],
+			"translation": [-0.5, 7.5, 0.25],
+			"scale": [0.9, 0.9, 0.9]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 84, 67],
