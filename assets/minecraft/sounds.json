@@ -450,5 +450,17 @@
   "melee.hit": {
     "category": "master",
     "sounds": ["melee/hit", "melee/hit2", "melee/hit3", "melee/hit4"]
+  },
+  "card.swipe": {
+    "category": "master",
+    "sounds": ["misc/card_swipe"]
+  },
+  "door.hydraulic.open": {
+    "category": "master",
+    "sounds": ["door/hydraulic_door_open"]
+  },
+  "door.hydraulic.close": {
+    "category": "master",
+    "sounds": ["door/hydraulic_door_close"]
   }
 }
