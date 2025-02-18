@@ -34,19 +34,6 @@
 			}
 		},
 		{
-			"name": "Box3",
-			"from": [6.5, 3, 7.25],
-			"to": [8, 7.5, 8.25],
-			"faces": {
-				"north": {"uv": [11, 11, 13, 15.5], "texture": "#texture1"},
-				"east": {"uv": [12.5, 11, 13, 15.5], "texture": "#texture1"},
-				"south": {"uv": [11, 11, 13, 15.5], "texture": "#texture1"},
-				"west": {"uv": [11, 11, 11.5, 15.5], "texture": "#texture1"},
-				"up": {"uv": [11, 11, 13, 11.5], "texture": "#texture1"},
-				"down": {"uv": [11, 15, 13, 15.5], "texture": "#texture1"}
-			}
-		},
-		{
 			"name": "Box4",
 			"from": [11, 4.5, 7.25],
 			"to": [12.5, 8, 8.25],

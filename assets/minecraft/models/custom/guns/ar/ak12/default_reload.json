@@ -245,18 +245,6 @@
 			}
 		},
 		{
-			"from": [7.5, 3.625, 7.875],
-			"to": [8.5, 6, 10.625],
-			"faces": {
-				"north": {"uv": [7.5, 8, 8.5, 10.375], "texture": "#texture"},
-				"east": {"uv": [5.375, 8, 8.125, 10.375], "texture": "#texture"},
-				"south": {"uv": [7.5, 8, 8.5, 10.375], "texture": "#texture"},
-				"west": {"uv": [7.875, 8, 10.625, 10.375], "texture": "#texture"},
-				"up": {"uv": [7.5, 7.875, 8.5, 10.625], "texture": "#texture"},
-				"down": {"uv": [8.5, 10.625, 7.5, 7.875], "texture": "#texture"}
-			}
-		},
-		{
 			"from": [7.5, 8.375, 6],
 			"to": [8.5, 8.75, 14.9375],
 			"faces": {
@@ -1591,32 +1579,6 @@
 				"west": {"uv": [3.25, 5.625, 3.4375, 5.8125], "texture": "#texture2"},
 				"up": {"uv": [6.6875, 3.25, 7.5625, 3.4375], "texture": "#texture2"},
 				"down": {"uv": [9.3125, 3.4375, 8.4375, 3.25], "texture": "#texture2"}
-			}
-		},
-		{
-			"from": [7.5001, 2.3, 8.0825],
-			"to": [8.5001, 4.675, 10.8325],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.5001, 4.675, 8.0825]},
-			"faces": {
-				"north": {"uv": [7.5, 9.325, 8.5, 11.7], "texture": "#texture"},
-				"east": {"uv": [5.1675, 9.325, 7.9175, 11.7], "texture": "#texture"},
-				"south": {"uv": [7.5, 9.325, 8.5, 11.7], "texture": "#texture"},
-				"west": {"uv": [8.0825, 9.325, 10.8325, 11.7], "texture": "#texture"},
-				"up": {"uv": [7.5, 8.0825, 8.5, 10.8325], "texture": "#texture"},
-				"down": {"uv": [8.5, 10.8325, 7.5, 8.0825], "texture": "#texture"}
-			}
-		},
-		{
-			"from": [7.5, 1, 7.765],
-			"to": [8.5, 3.375, 10.515],
-			"rotation": {"angle": 45, "axis": "x", "origin": [7.5, 3.375, 7.765]},
-			"faces": {
-				"north": {"uv": [7.5, 10.625, 8.5, 13], "texture": "#texture"},
-				"east": {"uv": [5.485, 10.625, 8.235, 13], "texture": "#texture"},
-				"south": {"uv": [7.5, 10.625, 8.5, 13], "texture": "#texture"},
-				"west": {"uv": [7.765, 10.625, 10.515, 13], "texture": "#texture"},
-				"up": {"uv": [7.5, 7.765, 8.5, 10.515], "texture": "#texture"},
-				"down": {"uv": [8.5, 10.515, 7.5, 7.765], "texture": "#texture"}
 			}
 		},
 		{
