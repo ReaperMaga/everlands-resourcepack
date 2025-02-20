@@ -1220,8 +1220,8 @@
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
-			"translation": [0, 3.5, 0],
-			"scale": [1.07, 1.07, 1.07]
+			"translation": [0, 3, 0],
+			"scale": [0.89, 0.89, 0.89]
 		},
 		"head": {
 			"rotation": [0, -180, 0],
