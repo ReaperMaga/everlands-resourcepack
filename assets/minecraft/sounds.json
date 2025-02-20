@@ -466,5 +466,9 @@
   "button.press": {
     "category": "master",
     "sounds": ["misc/button_press"]
+  },
+  "rocket.launcher.launch": {
+    "category": "master",
+    "sounds": ["misc/rocket_launcher_launch"]
   }
 }

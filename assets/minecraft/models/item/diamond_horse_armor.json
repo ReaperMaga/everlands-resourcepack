@@ -489,13 +489,13 @@
             "predicate": {
                 "custom_model_data": 2801
             },
-            "model": "custom/rocket_launcher/rpg_aiming"
+            "model": "custom/rocket_launcher/rpg_reloading"
         },
         {
             "predicate": {
                 "custom_model_data": 2802
             },
-            "model": "custom/rocket_launcher/rpg_reloading"
+            "model": "custom/rocket_launcher/rpg_aiming"
         },
         {
             "predicate": {
