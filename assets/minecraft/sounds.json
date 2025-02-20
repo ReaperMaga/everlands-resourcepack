@@ -149,6 +149,9 @@
       "keypad/press4"
     ]
   },
+  "reload.rpg7": {
+    "sounds": ["reload/rpg7"]
+  },
   "reload.ar.clipin": {
     "sounds": ["reload/ar_clipin"]
   },
