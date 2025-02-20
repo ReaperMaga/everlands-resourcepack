@@ -462,5 +462,9 @@
   "door.hydraulic.close": {
     "category": "master",
     "sounds": ["door/hydraulic_door_close"]
+  },
+  "button.press": {
+    "category": "master",
+    "sounds": ["misc/button_press"]
   }
 }
