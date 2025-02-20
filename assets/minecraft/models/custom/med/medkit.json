@@ -111,20 +111,6 @@
 			}
 		},
 		{
-			"from": [1.25, 0, 6],
-			"to": [1.75, 4, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [1.25, 0, 5]},
-			"color": 7,
-			"faces": {
-				"north": {"uv": [0, 0, 0.125, 1], "texture": "#missing"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#missing"},
-				"south": {"uv": [0, 0, 0.125, 1], "texture": "#missing"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#missing"},
-				"up": {"uv": [0, 0, 0.125, 1], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0.125, 1], "texture": "#missing"}
-			}
-		},
-		{
 			"from": [7.25, 1.6, 3.85],
 			"to": [8.75, 5.6, 4.6],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, -0.4, 3.6]},
@@ -1281,7 +1267,6 @@
 		30,
 		31,
 		32,
-		33,
 		{
 			"name": "text_FIRST AID",
 			"origin": [30.95, 12, 14],
@@ -1291,31 +1276,31 @@
 					"name": "character_f",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [34, 35, 36]
+					"children": [33, 34, 35]
 				},
 				{
 					"name": "character_i",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [37]
+					"children": [36]
 				},
 				{
 					"name": "character_r",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [38, 39, 40, 41, 42, 43]
+					"children": [37, 38, 39, 40, 41, 42]
 				},
 				{
 					"name": "character_s",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [44, 45, 46, 47, 48]
+					"children": [43, 44, 45, 46, 47]
 				},
 				{
 					"name": "character_t",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [49, 50]
+					"children": [48, 49]
 				},
 				{
 					"name": "character_ ",
@@ -1327,19 +1312,19 @@
 					"name": "character_a",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [51, 52, 53, 54]
+					"children": [50, 51, 52, 53]
 				},
 				{
 					"name": "character_i",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [55]
+					"children": [54]
 				},
 				{
 					"name": "character_d",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [56, 57, 58, 59, 60]
+					"children": [55, 56, 57, 58, 59]
 				}
 			]
 		},
@@ -1352,31 +1337,31 @@
 					"name": "character_f",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [61, 62, 63]
+					"children": [60, 61, 62]
 				},
 				{
 					"name": "character_i",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [64]
+					"children": [63]
 				},
 				{
 					"name": "character_r",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [65, 66, 67, 68, 69, 70]
+					"children": [64, 65, 66, 67, 68, 69]
 				},
 				{
 					"name": "character_s",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [71, 72, 73, 74, 75]
+					"children": [70, 71, 72, 73, 74]
 				},
 				{
 					"name": "character_t",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [76, 77]
+					"children": [75, 76]
 				},
 				{
 					"name": "character_ ",
@@ -1388,19 +1373,19 @@
 					"name": "character_a",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [78, 79, 80, 81]
+					"children": [77, 78, 79, 80]
 				},
 				{
 					"name": "character_i",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [82]
+					"children": [81]
 				},
 				{
 					"name": "character_d",
 					"origin": [30.95, 12, 14],
 					"color": 0,
-					"children": [83, 84, 85, 86, 87]
+					"children": [82, 83, 84, 85, 86]
 				}
 			]
 		}
