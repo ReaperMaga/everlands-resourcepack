@@ -106,6 +106,12 @@
 				"custom_model_data": 17
 			},
 			"model": "custom/decor/grave"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "custom/barricade_stone"
 		}
 	]
 }
