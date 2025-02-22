@@ -160,6 +160,12 @@
 				"custom_model_data": 26
 			},
 			"model": "custom/decor/bench"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "custom/decor/bench_2"
 		}
 	]
 }
