@@ -46,6 +46,12 @@
 				"custom_model_data": 7
 			},
 			"model": "custom/throwable/uav"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "custom/c4/c4"
 		}
 	]
 }
