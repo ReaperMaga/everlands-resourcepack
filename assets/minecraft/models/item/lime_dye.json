@@ -154,6 +154,12 @@
 				"custom_model_data": 25
 			},
 			"model": "custom/decor/fire_hydrant"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "custom/decor/bench"
 		}
 	]
 }
