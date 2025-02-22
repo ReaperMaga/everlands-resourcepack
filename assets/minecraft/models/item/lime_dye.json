@@ -148,6 +148,12 @@
 				"custom_model_data": 24
 			},
 			"model": "custom/decor/runway_lights"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "custom/decor/fire_hydrant"
 		}
 	]
 }
