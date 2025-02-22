@@ -124,6 +124,30 @@
 				"custom_model_data": 20
 			},
 			"model": "custom/decor/register_open"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "custom/decor/parking_pole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "custom/decor/parking_curb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "custom/decor/solar_panel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "custom/decor/runway_lights"
 		}
 	]
 }
