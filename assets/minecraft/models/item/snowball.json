@@ -58,6 +58,12 @@
 				"custom_model_data": 9
 			},
 			"model": "custom/throwable/throwing_knife"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "custom/throwable/throwing_knife_poison"
 		}
 	]
 }
