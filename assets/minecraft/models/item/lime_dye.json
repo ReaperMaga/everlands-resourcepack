@@ -166,6 +166,12 @@
 				"custom_model_data": 27
 			},
 			"model": "custom/decor/bench_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "custom/decor/diesel"
 		}
 	]
 }

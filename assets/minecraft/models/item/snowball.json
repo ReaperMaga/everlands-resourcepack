@@ -52,6 +52,12 @@
 				"custom_model_data": 8
 			},
 			"model": "custom/c4/c4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "custom/throwable/throwing_knife"
 		}
 	]
 }
