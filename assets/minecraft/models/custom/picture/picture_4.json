@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/pictures/image",
+		"0": "item/pictures/IMG_8563",
 		"1": "item/blocks/stripped_oak_log",
-		"particle": "item/pictures/image"
+		"particle": "item/pictures/IMG_8563"
 	},
 	"elements": [
 		{
