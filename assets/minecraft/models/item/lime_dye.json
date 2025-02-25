@@ -193,9 +193,15 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 32
+				"custom_model_data": 33
 			},
-			"model": "custom/decor/table_round"
+			"model": "custom/decor/desk_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "custom/decor/desk_computer_gray_2"
 		}
 	]
 }
