@@ -22,6 +22,12 @@
 				"custom_model_data": 3
 			},
 			"model": "custom/med/medkit"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/med/syringe_2"
 		}
 	]
 }

@@ -172,6 +172,24 @@
 				"custom_model_data": 28
 			},
 			"model": "custom/decor/diesel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "custom/decor/desk"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "custom/decor/desk_computer_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "custom/decor/coffee_table"
 		}
 	]
 }
