@@ -190,6 +190,12 @@
 				"custom_model_data": 31
 			},
 			"model": "custom/decor/coffee_table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "custom/decor/table_round"
 		}
 	]
 }
