@@ -16,6 +16,18 @@
 				"custom_model_data": 2
 			},
 			"model": "custom/airdrop/parachute"
+        },
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/zombie_spawner/zombie_off"
+        },
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/zombie_spawner/zombie_spawner"
         }
 	]
 }
