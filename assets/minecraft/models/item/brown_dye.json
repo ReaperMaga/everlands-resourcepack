@@ -1,0 +1,21 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/brown_dye"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/zombie_spawner/zombie_off"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/zombie_spawner/zombie_spawner"
+		}
+	]
+}
